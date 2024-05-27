@@ -4,7 +4,7 @@
 
 This project is an implementation of the popular 2048 game. The game logic is developed using JavaScript, and the user interface is built with HTML and CSS. Players can interact with the game using keyboard arrow keys to combine tiles and reach the 2048 tile.
 
-[DEMO LINK](https://mariasnegireva.github.io/2048_game/)
+[DEMO LINK](https://mariasnegireva.github.io/2048_js/)
 
 ### Project Structure
 
